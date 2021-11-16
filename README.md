@@ -1,0 +1,2 @@
+# projekt_11
+KARINA+STASIK+YULIIA
