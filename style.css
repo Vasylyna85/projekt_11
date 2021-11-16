@@ -1,0 +1,17 @@
+body {
+    background-color: khaki;
+}
+
+h1 h2 h3 {
+    color: red;
+    background: 1px;
+    text-align: center;
+}
+.chapter {
+    color: blue;
+}
+.pink {
+    color: yellow;
+}
+
+
